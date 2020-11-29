@@ -528,7 +528,7 @@ READFILE:
     filecontents[x] = 0;
     filecontentsnum[x] = 0;
   }
-  linechar = 16;
+  linechar = 14;
   pageline = 9;
   ichar = 0;
   ibook = 0;
