@@ -17,3 +17,6 @@ All that is needed is to add txt files into the sd card. It generates the opnbk.
 While the 3 color LED at the bottom is bright, things are happening in the background to make the buttoms unresponsive. Wait till the 3 color LED is a paler version of what it was.
 
 I am still debugging why some lines are short, when the next character should be on the same line, or why some lines run long. It is probably something simple. We will see.
+
+
+Twitter: @AndrewVall to get in touch with me.
