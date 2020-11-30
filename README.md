@@ -15,3 +15,5 @@ I am not a software engineer. My experience is in industrial automation controls
 All that is needed is to add txt files into the sd card. It generates the opnbk.csv file with a list of the text files, and some place holders. I mostly use the select, lock, up and down, and forward and backward buttons. If you are reading, lock will hold your place, and show that you are continuing reading. Select will "closed" the opnbk.csv entry. Both will hold your place. They are unsigned longs. Hopefully your txt file is less than 4,294,967,295 characters in length.
 
 While the 3 color LED at the bottom is bright, things are happening in the background to make the buttoms unresponsive. Wait till the 3 color LED is a paler version of what it was.
+
+I am still debugging why some lines are short, when the next character should be on the same line, or why some lines run long. It is probably something simple. We will see.
